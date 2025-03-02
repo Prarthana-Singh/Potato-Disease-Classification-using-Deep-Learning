@@ -104,7 +104,7 @@ To use this project, follow these steps:
 
 <br />
 
-![](https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning/blob/main/image/Inference_image_output.JPG)
+![](https://github.com/Prarthana-Singh/Potato-Disease-Classification-using-Deep-Learning/blob/main/image/Inference_image_output.JPG)
 
 <br />
 
