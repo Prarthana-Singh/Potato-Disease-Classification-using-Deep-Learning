@@ -124,7 +124,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 📧 Email: prarthanas645@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/prarthanasingh)
+🌐 LinkedIn: [linkedin.com/in/prarthanasingh](https://www.linkedin.com/in/prarthanasingh)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
