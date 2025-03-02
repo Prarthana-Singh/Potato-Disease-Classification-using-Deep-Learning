@@ -1,0 +1,13 @@
+prefix=D:/DL Projects/Potato-Disease-Classification/venv/Library
+exec_prefix=D:/DL Projects/Potato-Disease-Classification/venv/Library
+libdir=D:/DL Projects/Potato-Disease-Classification/venv/Library/lib
+sharedlibdir=D:/DL Projects/Potato-Disease-Classification/venv/Library/lib
+includedir=D:/DL Projects/Potato-Disease-Classification/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
