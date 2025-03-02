@@ -59,7 +59,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning.git```
+1. Clone the repository: ```git clone https://github.com/Prarthana-Singh/Potato-Disease-Classification-using-Deep-Learning.git```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
@@ -122,9 +122,9 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: prarthanas645@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/prarthanasingh)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
