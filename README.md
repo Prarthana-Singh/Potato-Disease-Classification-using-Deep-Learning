@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11s-kBquKT-ZiZwVMxR3KxuMKoUf6-ynd?usp=sharing)
 
 ## Live Demo▶️
-
+[Demo](https://potato-disease-classification-using-deep.onrender.com)
 
 **Introduction**
 
